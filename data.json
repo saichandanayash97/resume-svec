@@ -1,0 +1,22 @@
+{
+    "career":{
+            "info":"inner peace"
+    }
+    "education":[
+      {
+        "degree":"ssc",
+        "school":"school name",
+        "data":["2013","80%"],
+      },
+        {
+          "degree":"intermediate",
+          "college":"college name",
+          "data":["2015","94%"],
+        },
+          {
+            "degree":"graduation",
+            "school":"college name",
+            "data":["2019","80%"],
+          }
+        ]
+}
